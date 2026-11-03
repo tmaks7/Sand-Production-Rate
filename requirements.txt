@@ -1,0 +1,12 @@
+# Sand Production Rate Predictor — Streamlit deployment
+# Library versions with which the recommended model was trained and the Chapter 4 results produced
+# (Python 3.13). Keep these pinned: a model saved with one XGBoost version may not load in another.
+
+streamlit==1.66.1
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+scikit-learn==1.9.1
+xgboost==3.4.1
+matplotlib==3.11.2
+joblib==1.6.0
